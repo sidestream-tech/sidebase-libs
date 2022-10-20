@@ -1,5 +1,5 @@
 ARCHIVED:
-- main package `@sidestream-tech/nuxt-sidebase-parse` moved to `@sidebase/nuxt-parse`
+- [main package `@sidestream-tech/nuxt-sidebase-parse` moved to `@sidebase/nuxt-parse`](https://github.com/sidebase/nuxt-parse)
 - this repo archived as no other libs were present
 
 # Sidebase Libraries
